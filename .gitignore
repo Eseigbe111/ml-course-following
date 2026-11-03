@@ -64,3 +64,10 @@ Vehicle images dataset for the vehicle make and mo/chatgpt-doing-the-car-identif
 Vehicle images dataset for the vehicle make and mo/vehicle_identification_model.keras
 Vehicle images dataset for the vehicle make and mo/vehicle_identification_model1.keras
 Vehicle images dataset for the vehicle make and mo/vehicle_confusion_matrix.png
+
+
+# Email spam project files not selected for GitHub
+email-spam-identification/.ipynb_checkpoints/
+email-spam-identification/models/.ipynb_checkpoints/
+email-spam-identification/practicing-some-parts-of-email-spam-project.ipynb
+email-spam-identification/models/email_spam_classifier.keras
