@@ -1,0 +1,5 @@
+Metric,Result
+Original Validation Accuracy,77.17%
+Fine-Tuned Validation Accuracy,78.30%
+Original Test Accuracy,73.27%
+Fine-Tuned Test Accuracy,75.93%

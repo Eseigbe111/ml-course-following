@@ -51,3 +51,16 @@ dog-breed-identification/dog_vision_model.h5
 dog-breed-identification/models/
 dog-breed-identification/notebookffdda99adb.ipynb
 dog-breed-identification/Main deep learning workflow.docx
+
+
+# Vehicle project dataset and temporary files
+Vehicle images dataset for the vehicle make and mo/splited_dataset/
+Vehicle images dataset for the vehicle make and mo/.ipynb_checkpoints/
+
+# Vehicle project files not selected for GitHub
+Vehicle images dataset for the vehicle make and mo/my_vehicle.jpg
+Vehicle images dataset for the vehicle make and mo/practicing-some-parts-in-vehicle-identification.ipynb
+Vehicle images dataset for the vehicle make and mo/chatgpt-doing-the-car-identification-like-the-dog-breed.ipynb
+Vehicle images dataset for the vehicle make and mo/vehicle_identification_model.keras
+Vehicle images dataset for the vehicle make and mo/vehicle_identification_model1.keras
+Vehicle images dataset for the vehicle make and mo/vehicle_confusion_matrix.png
