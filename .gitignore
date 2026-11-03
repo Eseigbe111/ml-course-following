@@ -13,3 +13,41 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# Local virtual environments
+dog-breed-identification/dog-vision/
+**/env/
+**/venv/
+**/.venv/
+
+# Jupyter temporary files
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dataset folders
+dog-breed-identification/train/
+dog-breed-identification/test/
+vehicle-identification/splited_dataset/
+
+# Dataset and archive files
+*.zip
+*.7z
+
+# Training logs
+dog-breed-identification/logs/
+
+
+# Dog project files not intended for GitHub
+dog-breed-identification/labels.csv
+dog-breed-identification/sample_submission.csv
+dog-breed-identification/dog_vision_model.h5
+dog-breed-identification/models/
+dog-breed-identification/notebookffdda99adb.ipynb
+dog-breed-identification/Main deep learning workflow.docx
